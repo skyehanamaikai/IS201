@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(179 158 177);
+}
+
+.cody
+{
+    float: left;
+}
+
+.elle {
+    float:right;
+}
+
+iframe {
+    float: inline-end;
+    align-items: center;
+    justify-content: center;
+}
+main {
+    font-size: 17px;
+}

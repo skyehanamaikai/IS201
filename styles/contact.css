@@ -1,0 +1,20 @@
+header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading {
+    color: #f8f9fa;
+}
+
+#mainNav .navbar-brand {
+    color: #f8f9fa;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link {
+    color: #f8f9fa;
+}
+body {
+    background-color: rgb(40 69 77);
+    color: #f8f9fa
+}
+
+.me{
+    float: center;
+    margin: 5px;
+}

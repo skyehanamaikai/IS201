@@ -1,0 +1,64 @@
+head {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    resize: both;
+  
+}
+
+a:-webkit-any-link {
+    color:beige ;
+    cursor: pointer;
+    text-decoration: none;
+    resize: both;
+}
+body {
+    display: block;
+    margin: 80px;
+    border: 15px;
+    background-color: rgb(200 170 156);
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    resize: both;
+}
+
+.tableauPlaceholder {
+    display: flex;
+    border: 8px;
+    padding: 4px;
+    height: 200px;
+    width:50%;
+    resize: both;
+}
+
+nav1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    color: rgb(237, 234, 253);
+    text-decoration: none;
+    display: block;
+    margin: 3px;
+
+
+}
+
+nav {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: right;
+    color: rgb(237, 234, 253);
+    text-decoration: none;
+    
+}
+
+p {
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    resize: both;
+}
+
+.footer {
+    color: beige;
+    font-size: small;
+    text-align: center;
+    resize: both;
+}

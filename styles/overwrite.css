@@ -1,0 +1,23 @@
+/**Skye Hanamaikai, last edited: April 16, 2022**/
+header.masthead:before {
+    background-color: #00000015;
+}
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: rgb(171 208 205);
+}
+
+header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading {
+    color: #1b2127;
+}
+
+#mainNav .navbar-brand {
+    color: #1b2127;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link {
+    color: #1b2127;
+}
